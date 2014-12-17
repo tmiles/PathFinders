@@ -1,3 +1,4 @@
+package model;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
@@ -14,6 +15,8 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 import javax.swing.Timer;
+
+import AStar.Path;
 /**
  * Main interface of the A-star algorithm
  * Right Click to set a building
