@@ -1,14 +1,14 @@
 PathFinders
 ==============
 
-A basic implementation of common path finding (graph) algoritms.
+A basic implementation of common path finding (graph) algorithms.
 <li> This includes:</li>
 <ul>
 <li>A-Star (A*) shortest path finding algorithm. </li>
 <li>Bredth First Search algorithm (BFS)</li>
 <li>Depth First Search algorithm (DFS)</li>
 
-<ul>
+</ul>
 You have actors (people) who are trying to get from point A-B. They need a path (a queue of points) to traverse. 
 Have static methods: Model.getDeterminedPath() will give you a path to move to. 
 
