@@ -8,7 +8,7 @@ import java.awt.Point;
  * algorithm analysis
  * 
  * @author Timmy Miles
- * @version AStar Algorithm V1.0
+ * @version PathFinders V1.0
  *
  */
 public class BlockInfo {

@@ -7,7 +7,7 @@ import java.awt.Point;
  * Main obstacle (building) you need to walk around
  * 
  * @author Timmy Miles
- * @version AStar Algorithm V1.0
+ * @version PathFinders V1.0
  *
  */
 public class Building {

@@ -7,7 +7,7 @@ import java.awt.Point;
  * The actors (movers) on the path
  * 
  * @author Timmy Miles
- * @version AStar Algorithm V1.0
+ * @version PathFinders V1.0
  *
  **/
 public class Person {

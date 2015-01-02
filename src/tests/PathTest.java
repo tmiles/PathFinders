@@ -1,19 +1,19 @@
 package tests;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
+
+import pathFinders.Path;
 /**
  * Generic Test Class
  * @author Timmy Miles
- * @version AStarAlgorithm V1.0
+ * @version PathFinders V1.0
  *
  */
 public class PathTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		Path p = new Path();
 	}
 
 }
